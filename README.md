@@ -4,5 +4,5 @@ A small react app that shows some knowledge of:
   - general react project organization/implementation
   - js forms
   - lifting state up / prop drilling
-  - creat-react-app / github / github pages
+  - create-react-app / github / github pages
   
